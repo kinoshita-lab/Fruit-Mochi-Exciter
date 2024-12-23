@@ -1,6 +1,8 @@
 # Fruit Mochi Exciter
 
 [日本語](README.ja.md)
+
+
 Mochi(Fruit Mochi) is a famous Japanese sweets, which (from my perspective) looks like trigger pads what DJs/Musicians doing some kind of cool activities!
 This product enables mochi lighting to derive full potential of the mochi itself...!
 
