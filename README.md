@@ -21,7 +21,7 @@ This product enables mochi lighting to derive full potential of the mochi itself
 
 - Pre-assembled circuit board
 - M3 12mm screws: 4pcs.
-- M3 nut: 4pcs.
+- M3 nuts: 4pcs.
 - Acrylic boards(1, 2, 3)
 - Rubber feets: 4pcs.
 
